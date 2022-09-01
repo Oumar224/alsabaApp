@@ -1,0 +1,258 @@
+
+#agence 1 : 
+{
+    "nomAgence": "Maroc Alsaba34",
+    "phone": "+212648529316",
+    "responsable": "mamady DAINE",
+    "emailAgence":"alsaba212@gmail.com",
+    "motDePasse" : "****"
+}
+
+#agence 2
+{
+    "nomAgence": "Guinee Alsaba55",
+    "phone": "+212648526317",
+    "responsable": "mamady CAMARA",
+    "emailAgence":"alsaba224@gmaim.com",
+    "motDePasse" : "****"
+}
+
+#agence 3
+{
+    "nomAgence": "Guinee Alsaba38",
+    "phone": "+244648526317",
+    "responsable": "amara CONDE",
+    "emailAgence":"alsaba224@gmaim.com",
+    "motDePasse" : "****"
+}
+
+#agence 4
+{
+    "nomAgence": "Guinee Alsaba44",
+    "phone": "+244645826317",
+    "responsable": "mamoudou CONDE",
+    "emailAgence":"alsaba22444@gmaim.com",
+    "motDePasse" : "****"
+}
+
+#agence 5
+{
+    "nomAgence": "Guinee Alsaba54",
+    "phone": "+244645826323",
+    "responsable": "mamoudou CONDE",
+    "emailAgence":"alsaba22454@gmaim.com",
+    "motDePasse" : "****"
+}
+
+#agence 6
+{
+    "nomAgence": "Guinee Alsaba-'",
+    "phone": "+244645826323",
+    "responsable": "abdoulaye SYLLA",
+    "emailAgence":"alsaba22464@gmaim.com",
+    "motDePasse" : "****"
+}
+
+
+#################################################### Transactions ################################################
+#transaction1
+{
+    "mal": "2000",
+    "fac": "200",
+    "fom": "5000",
+    "telDest" : "+244645826317",
+    "telExp" : "+212645826317",
+    "nomDest" : "ÉMILIE AMI PROSPERE ",
+    "nomExp" : "EMILE",
+    "typeTrans" : "orange money",
+    "dateTrans" : {
+    "annee":2022,
+    "mois":4,
+    "jour":{
+        "valeur":12,
+        "heure":18,
+        "minute":26,
+        "second":45
+    }
+    },
+    "villeDest" : "Conakry",
+    "agence_dest" : "Guinee Alsaba55",
+    "agence_exp" :4
+}
+
+#transactions 2
+{
+    "mal": "3000000",
+    "fac": "800",
+    "fom": "300",
+    "telDest" : "+212645826317",
+    "telExp" : "+244645826317",
+    "nomDest" : "Mr MARA",
+    "nomExp" : "AMINATA MARA",
+    "typeTrans" : "mobile money",
+    "dateTrans" : {
+    "annee":2022,
+    "mois":6,
+    "jour":{
+        "valeur":18,
+        "heure":13,
+        "minute":46,
+        "second":43
+    }
+    },
+    "villeDest" : "Mohammedia",
+    "agence_dest" : "Maroc Alsaba34",
+    "agence_exp" :2
+}
+
+
+#transactions 3
+{
+    "mal": "5000000",
+    "fac": "1000",
+    "fom": "400",
+    "telDest" : "+212645826317",
+    "telExp" : "+244645826317",
+    "nomDest" : "Mm CONDE",
+    "nomExp" : "ABDOULAYE CONDE",
+    "typeTrans" : "mobile money",
+    "dateTrans" : {
+    "annee":2022,
+    "mois":6,
+    "jour":{
+        "valeur":18,
+        "heure":14,
+        "minute":46,
+        "second":43
+    }
+    },
+    "villeDest" : "Mohammedia",
+    "agence_dest" : "Maroc Alsaba34",
+    "agence_exp" :2
+}
+
+
+#transactions 4
+{
+    "mal": "5000",
+    "fac": "300",
+    "fom": "50",
+    "telDest" : "+212645826317",
+    "telExp" : "+244645826317",
+    "nomDest" : "Mm CAMARA",
+    "nomExp" : "ABDOULAYE CAMARA",
+    "typeTrans" : "orange money",
+    "dateTrans" : {
+    "annee":2022,
+    "mois":6,
+    "jour":{
+        "valeur":18,
+        "heure":14,
+        "minute":49,
+        "second":49
+    }
+    },
+   "villeDest" : "Conakry",
+    "agence_dest" : "Guinee Alsaba55",
+    "agence_exp" :4
+}
+
+#transactions 5
+{
+    "mal": "4000",
+    "fac": "300",
+    "fom": "50",
+    "telDest" : "+212645826317",
+    "telExp" : "+244645826317",
+    "nomDest" : "AMADOU DIALLO",
+    "nomExp" : "ABDOULAYE CAMARA",
+    "typeTrans" : "orange money",
+    "dateTrans" : {
+    "annee":2022,
+    "mois":6,
+    "jour":{
+        "valeur":17,
+        "heure":14,
+        "minute":49,
+        "second":49
+    }
+    },
+   "villeDest" : "Conakry",
+    "agence_dest" : "Guinee Alsaba55",
+    "agence_exp" :4
+}
+
+#transactions 6
+{
+    "mal": "400",
+    "fac": "30",
+    "fom": "20",
+    "telDest" : "+212645826317",
+    "telExp" : "+244645826317",
+    "nomDest" : "AMADOU DIALLO",
+    "nomExp" : "DJIBA CAMARA",
+    "typeTrans" : "orange money",
+    "dateTrans" : {
+    "annee":2022,
+    "mois":6,
+    "jour":{
+        "valeur":17,
+        "heure":13,
+        "minute":49,
+        "second":49
+    }
+    },
+   "villeDest" : "Conakry",
+    "agence_dest" : "Guinee Alsaba55",
+    "agence_exp" :4
+}
+
+#transactions 7
+{
+    "mal": "400",
+    "fac": "30",
+    "fom": "20",
+    "telDest" : "+212645826317",
+    "telExp" : "+244645826317",
+    "nomDest" : "AMADOU CISSSE",
+    "nomExp" : "DJIBA CISSE",
+    "typeTrans" : "orange money",
+    "dateTrans" : {
+    "annee":2022,
+    "mois":6,
+    "jour":{
+        "valeur":18,
+        "heure":13,
+        "minute":49,
+        "second":49
+    }
+    },
+  "villeDest" : "Mohammedia",
+    "agence_dest" : "Maroc Alsaba34",
+    "agence_exp" :2
+}
+
+#transactions 8
+{
+    "mal": "500",
+    "fac": "35",
+    "fom": "20",
+    "telDest" : "+212645826317",
+    "telExp" : "+244645826317",
+    "nomDest" : "AMADOU CISSSE",
+    "nomExp" : "DJIBA CISSE",
+    "typeTrans" : "orange money",
+    "dateTrans" : {
+    "annee":2022,
+    "mois":6,
+    "jour":{
+        "valeur":18,
+        "heure":15,
+        "minute":49,
+        "second":49
+    }
+    },
+  "villeDest" : "Mohammedia",
+    "agence_dest" : "Maroc Alsaba34",
+    "agence_exp" :2
+}
